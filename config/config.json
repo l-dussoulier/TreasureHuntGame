@@ -1,0 +1,16 @@
+{
+  "CONTRACT_ADDRESS": "0xE36219270a636dC93E96C1cF12CA1c1a0AEf5a46",
+  "SCAN_LINK": "https://testnet.snowtrace.io/token/0xE36219270a636dC93E96C1cF12CA1c1a0AEf5a46",
+  "NETWORK": {
+    "NAME": "Avalanche",
+    "SYMBOL": "Avax",
+    "ID": 43113
+  },
+  "NFT_NAME": "Pirate Test",
+  "SYMBOL": "PT",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MAX_MINT_AMOUNT" : 3
+}
